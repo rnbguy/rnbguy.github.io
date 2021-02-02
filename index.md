@@ -10,8 +10,11 @@ I specialize in automated verification of distributed system. My work is mainly 
 
 I finished my BSc in Mathematics and Computer Science and MSc in Computer Science from [Chennai Mathematical Institute][4].
 
+My [curriculum vitae][6].
+
 [1]: https://www.irif.fr/~cenea
 [2]: https://www.irif.fr/en/equipes/verif/index
 [3]: https://www.irif.fr
 [4]: https://www.cmi.ac.in
 [5]: http://www.cnrs.fr/en
+[6]: /ranadeep_cv.pdf

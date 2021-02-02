@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Publications"
-permalink: /publications/
+permalink: /pub
 ---
 * ### On the Complexity of Checking Consistency for Replicated Data Types.
 with Constantin Enea and Michael Emmi: [CAV 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-25543-5_19)
