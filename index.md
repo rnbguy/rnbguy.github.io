@@ -10,7 +10,7 @@ I specialize in automated verification of distributed system. My work is mainly 
 
 I finished my BSc in Mathematics and Computer Science and MSc in Computer Science from [Chennai Mathematical Institute][4].
 
-I will defend my PhD thesis([pdf][7]) by the end of March 2021. 
+I will [defend my PhD thesis on March 30, 2021][7]. 
 
 My [curriculum vitae][6].
 
@@ -20,4 +20,4 @@ My [curriculum vitae][6].
 [4]: https://www.cmi.ac.in
 [5]: http://www.cnrs.fr/en
 [6]: /ranadeep_cv.pdf
-[7]: /ranadeep_phd.pdf
+[7]: /defense
