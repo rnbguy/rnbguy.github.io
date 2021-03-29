@@ -3,14 +3,22 @@ layout: default
 title: "PhD Defense"
 permalink: /defense
 ---
+## _Zoom meeting link:_
+
+[https://u-paris.zoom.us/j/88193749845?pwd=QUFWTHFZZzlURTBva2UzNUp2Y2Y5dz09](https://u-paris.zoom.us/j/88193749845?pwd=QUFWTHFZZzlURTBva2UzNUp2Y2Y5dz09)
+
+Meeting ID: 881 9374 9845<br>
+Secret code: 566465
+
+---
+
 I have the pleasure to announce the defense of my Ph.D. thesis:
 
 ## _Automated Formal Testing of Storage Systems and Applications_
 
-The defense will be held online on [Tuesday, 30 March, 2021 at 9h30 (CEST, UTC +2)](https://everytimezone.com/s/2a346f1c).
-The manuscript is available [here](https://me.rnbguy.at/ranadeep_phd.pdf).
+The defense will be held [online on Zoom](https://u-paris.zoom.us/j/88193749845?pwd=QUFWTHFZZzlURTBva2UzNUp2Y2Y5dz09) on [Tuesday, 30 March, 2021 at 9h30 (CEST, UTC +2)](https://everytimezone.com/s/2a346f1c).
 
-## The ___link to the online Zoom meeting room___ for the thesis defense will be provided here soon.
+The manuscript is available [here](https://me.rnbguy.at/ranadeep_phd.pdf).
 
 The thesis jury consists of:
 
