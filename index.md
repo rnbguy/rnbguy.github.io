@@ -10,7 +10,7 @@ I specialize in automated verification of distributed system. My work is mainly 
 
 I finished my BSc in Mathematics and Computer Science and MSc in Computer Science from [Chennai Mathematical Institute][4].
 
-I will [defend my PhD thesis on March 30, 2021][7]. 
+I [defended my PhD thesis on March 30, 2021][7]. 
 
 My [curriculum vitae][6].
 
