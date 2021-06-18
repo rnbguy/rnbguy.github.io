@@ -10,9 +10,10 @@ I specialize in automated verification of distributed system. My work is mainly 
 
 I finished my BSc in Mathematics and Computer Science and MSc in Computer Science from [Chennai Mathematical Institute][4].
 
-I [defended my PhD thesis on March 30, 2021][7]. 
+I successfully [defended my PhD thesis on March 30, 2021][7]. I will join [Informal Systems][8] from July 2021.
 
 My [curriculum vitae][6].
+
 
 [1]: https://www.irif.fr/~cenea
 [2]: https://www.irif.fr/en/equipes/verif/index
@@ -21,3 +22,4 @@ My [curriculum vitae][6].
 [5]: http://www.cnrs.fr/en
 [6]: /ranadeep_cv.pdf
 [7]: /defense
+[8]: https://informal.systems
