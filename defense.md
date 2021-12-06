@@ -7,7 +7,7 @@ I have the pleasure to announce that I successfully defended my Ph.D. thesis on 
 
 ## _Automated Formal Testing of Storage Systems and Applications_
 
-The manuscript is available [here](https://me.rnbguy.at/ranadeep_phd.pdf).
+The manuscript is available [here](/ranadeep_phd.pdf).
 
 The thesis jury was consisted of:
 
