@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
 I am a research-engineer at [Informal Systems][informal] as part of [model-based-testing][mbt-informal] team.
 
 Informal Systems is a blockchain research company. It is a core contributor to the [Cosmos Network][cosmos-network] - _The Internet of Blockchains_.
@@ -17,7 +18,6 @@ My B.Sc. in Mathematics and Computer Science and M.Sc. in Computer Science were 
 My [curriculum vitae][6].
 
 _Informal Systems is [hiring][informal-job]._
-
 
 [1]: http://www.lix.polytechnique.fr/~cenea
 [2]: https://www.irif.fr/en/equipes/verif/index
