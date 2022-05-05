@@ -10,7 +10,7 @@ with Rachid Zennou, [Ahmed Bouajjani][abou], [Constantin Enea][cenea] and Mohamm
 * ### On the complexity of checking transactional consistency.
 with [Constantin Enea][cenea]: [OOPSLA 2019](https://dl.acm.org/doi/10.1145/3360591)
 * ### MonkeyDB: Effectively Testing Correctness against Weak Isolation Levels.
-with Diptanshu Kakwani, Jyothi Vedurada, [Constantin Enea][cenea], [Akash Lal][alal]: [arXiv](https://arxiv.org/abs/2103.02830)
+with Diptanshu Kakwani, Jyothi Vedurada, [Constantin Enea][cenea], [Akash Lal][alal]: [OOPSLA 2021](https://dl.acm.org/doi/10.1145/3485546) [[OOPSLA artifact](https://zenodo.org/record/5530883), [Microsoft repository](https://github.com/microsoft/weak-isolation-mock-db)]
 
 [cenea]: https://www.irif.fr/~cenea
 [memmi]: https://michael-emmi.github.io
