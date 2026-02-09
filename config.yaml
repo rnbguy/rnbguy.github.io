@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=https://github.com/rnbguy/pages/raw/main/config.schema.json
+# paths (using defaults: src=src, dest=dist, port=8000)
+url: "https://ranadeep.in"
+
+# site
+title: "Ranadeep Biswas"
+description: "Homepage for Ranadeep (or Rano or rnbguy)."
+lang: en
+author: "Ranadeep Biswas"
+github: "rnbguy"
+image: "github"
+twitter:
+  profile: "rnbguy_"
+
+# branding
+logo: ""
+faviconText: "R"
+
+# seo
+robots: "index, follow"
+
+# content
+mermaid:
+  useAscii: true
+  paddingX: 5
+  paddingY: 5
+  boxBorderPadding: 1
+
+# navigation
+navBar:
+  - defense
+  - publications
