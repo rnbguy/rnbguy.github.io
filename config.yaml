@@ -8,12 +8,12 @@ description: "Homepage for Ranadeep (or Rano or rnbguy)."
 lang: en
 author: "Ranadeep Biswas"
 github: "rnbguy"
-image: "github"
+image: ""
 twitter:
   profile: "rnbguy_"
 
 # branding
-logo: ""
+logo: "github"
 faviconText: "R"
 
 # seo
