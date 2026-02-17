@@ -111,6 +111,6 @@ Software verification using #link("https://www.cprover.org/cbmc/")[CBMC]
 )
 #text(style: "italic")[#link("https://www.cmi.ac.in")[Chennai Mathematical Institute], India]
 
-#section("Interests")
+#section("Skills")
 
-Blockchain interoperability · Consensus protocols · Formal verification · Automated testing · DeFi security · Verifiable AI · Open-source contributions · Rust · Linux
+Distributed Systems · Blockchain Interoperability · Byzantine Consensus · Automated Testing · Formal Methods · Smart Contracts · Cosmos SDK · Ethereum · Starknet · Rust · Open-source Contribution · Linux · AI Agents
