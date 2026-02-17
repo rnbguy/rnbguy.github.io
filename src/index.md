@@ -6,25 +6,24 @@ layout: home
 title: "Homepage"
 ---
 
-I build production blockchain infrastructure at [Informal Systems][informal], a core contributor to the [Cosmos Network][cosmos-network] - _The Internet of Blockchains_.
+I build production blockchain infrastructure at [Informal Systems][informal].
 
-Currently, I develop [Emerald][emerald], a modular framework for institutional blockchains using [EVM][evm] on top of consensus engines like [Malachite][malachite] and [Commonware Simplex][simplex]. I previously developed [Inter-Blockchain Communication][ibc] in [Cairo][cairo] ([Starknet][starknet]) and [Rust][rust]. Even before that, I conducted security audits for [Cosmos SDK][cosmos-sdk], [Tendermint][tendermint], [IBC][ibc], and [CosmWasm][cosmwasm] smart contracts.
+Currently, I am part of the team that develops [Emerald][emerald], a modular framework for institutional blockchains using [EVM][evm] on top of consensus engines like [Malachite][malachite] and [Commonware Simplex][simplex]. I previously developed [Inter-Blockchain Communication][ibc] in [Rust][rust] and [Cairo][cairo] ([Starknet][starknet]). Even before that, I conducted security audits for [Cosmos SDK][cosmos-sdk], [Tendermint][tendermint], [IBC][ibc], and [CosmWasm][cosmwasm] smart contracts.
 
-I also specialize in protocol engineering, automated testing, and security audits for distributed systems. My research background includes automated formal testing of distributed databases, with [3 publications](/publications) on this topic.
+I also specialize in protocol engineering, automated testing, and security audits for distributed systems. My academic background includes automated formal testing of distributed databases, with [4 publications](/publications) on this topic.
 
-I hold a Ph.D. in Computer Science from [Université Paris Cité][u-paris] (formerly Université de Paris), where I worked in the [Modeling and verification][2] team at [IRIF][3] under [Prof. Constantin Enea][1]. I [defended my thesis on March 30, 2021][7].
+I hold a Ph.D. in Computer Science from [Université Paris Cité][u-paris] (formerly Université de Paris), where I worked in the [Modeling and verification][verif] team at [IRIF][irif] under [Prof. Constantin Enea][cenea]. I [defended my thesis on March 30, 2021][defense].
 
-My B.Sc. and M.Sc. in Computer Science are from [Chennai Mathematical Institute][4].
+My B.Sc. and M.Sc. in Computer Science are from [Chennai Mathematical Institute][cmi].
 
-For my detailed experience and career history, see my cv: [ranadeep_cv.pdf][6].
+For my detailed experience and career history, see my cv: [ranadeep_cv.pdf][cv-pdf].
 
-[1]: http://www.lix.polytechnique.fr/~cenea
-[2]: https://www.irif.fr/en/equipes/verif/index
-[3]: https://www.irif.fr
-[4]: https://www.cmi.ac.in
-[5]: http://www.cnrs.fr/en
-[6]: /ranadeep_cv.pdf
-[7]: /defense
+[cenea]: http://www.lix.polytechnique.fr/~cenea
+[verif]: https://www.irif.fr/en/equipes/verif/index
+[irif]: https://www.irif.fr
+[cmi]: https://www.cmi.ac.in
+[cv-pdf]: /ranadeep_cv.pdf
+[defense]: /defense
 [informal]: https://informal.systems
 [u-paris]: https://u-paris.fr/language/en/
 [cosmos-network]: https://cosmos.network
