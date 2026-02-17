@@ -7,7 +7,7 @@ layout: home
 
 I build production blockchain infrastructure at [Informal Systems][informal], a core contributor to the [Cosmos Network][cosmos-network] - _The Internet of Blockchains_.
 
-Currently, I develop [Emerald][emerald], a modular framework for institutional blockchains, working with Malachite (Tendermint), Commonware (Simplex), and Ethereum execution layer (Reth). I previously developed [Inter-Blockchain Communication][ibc] in [Cairo][cairo] ([Starknet][starknet]) and [Rust][rust]. Even before that, I conducted security audits for Cosmos SDK, Tendermint, and CosmWasm protocols.
+Currently, I develop [Emerald][emerald], a modular framework for institutional blockchains using [EVM][evm] on top of consensus engines like [Malachite][malachite] and [Commonware Simplex][simplex]. I previously developed [Inter-Blockchain Communication][ibc] in [Cairo][cairo] ([Starknet][starknet]) and [Rust][rust]. Even before that, I conducted security audits for [Cosmos SDK][cosmos-sdk], [Tendermint][tendermint], [IBC][ibc], and [CosmWasm][cosmwasm] protocols.
 
 I also specialize in protocol engineering, automated testing, and security audits for distributed systems. My research background includes automated formal testing of distributed databases, with [3 publications](/publications) on this topic.
 
@@ -32,3 +32,9 @@ My [curriculum vitae][6].
 [starknet]: https://starknet.io
 [rust]: https://www.rust-lang.org
 [emerald]: https://informal.systems/emerald
+[evm]: https://ethereum.org/en/developers/docs/evm/
+[malachite]: https://github.com/circlefin/malachite
+[simplex]: https://docs.rs/commonware-consensus/latest/commonware_consensus/simplex/index.html
+[cosmos-sdk]: https://github.com/cosmos/cosmos-sdk
+[tendermint]: https://github.com/cometbft/cometbft
+[cosmwasm]: https://cosmwasm.com
