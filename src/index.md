@@ -5,26 +5,17 @@
 layout: home
 ---
 
-I am a security researcher and engineer at [Informal Systems][informal].
+I build production blockchain infrastructure at [Informal Systems][informal], a core contributor to the [Cosmos Network][cosmos-network] - _The Internet of Blockchains_.
 
-Informal Systems is a blockchain research company and a core contributor to the [Cosmos Network][cosmos-network] - _The Internet of Blockchains_.
+Currently, I develop [Emerald][emerald], a modular framework for institutional blockchains, working with Malachite (Tendermint), Commonware (Simplex), and Ethereum execution layer (Reth). I previously developed [Inter-Blockchain Communication][ibc] in [Cairo][cairo] ([Starknet][starknet]) and [Rust][rust]. Even before that, I conducted security audits for Cosmos SDK, Tendermint, and CosmWasm protocols.
 
-Currently, I take care of quality and correctness assurance concerns of [ibc-rs][ibc-rs] (Rust implementation of the [Inter-Blockchain Communication][ibc] protocol) team.
-In the past, I was part of [model-based-testing][mbt-informal] and software auditing team at Informal.
+I also specialize in protocol engineering, automated testing, and security audits for distributed systems. My research background includes automated formal testing of distributed databases, with [3 publications](/publications) on this topic.
 
-Before Informal, I was a computer science PhD student at [Université de Paris][u-paris] (currently, [Unversité Paris Cité][nouveau-nom]).
-I worked in [Modeling and verification][2] team in [IRIF][3], a research laboratory of the same university and [CNRS][5].
-My thesis was supervised by [Prof. Constantin Enea][1]. I successfully [defended my PhD thesis on March 30, 2021][7].
+I hold a Ph.D. in Computer Science from [Université Paris Cité][u-paris] (formerly Université de Paris), where I worked in the [Modeling and verification][2] team at [IRIF][3] under [Prof. Constantin Enea][1]. I [defended my thesis on March 30, 2021][7].
 
-I specialize in automated testing of distributed systems.
-My PhD work was mainly focused on different isolation levels of distributed databases.
-I published [3 papers](/publications) about efficient testing of distributed transactional databases like Galera, CockroachDB and datastorages like AntidoteDB.
-
-My B.Sc. in Mathematics and Computer Science and M.Sc. in Computer Science were from [Chennai Mathematical Institute][4].
+My B.Sc. and M.Sc. in Computer Science are from [Chennai Mathematical Institute][4].
 
 My [curriculum vitae][6].
-
-_Informal Systems is [hiring][informal-job]._
 
 [1]: http://www.lix.polytechnique.fr/~cenea
 [2]: https://www.irif.fr/en/equipes/verif/index
@@ -35,9 +26,9 @@ _Informal Systems is [hiring][informal-job]._
 [7]: /defense
 [informal]: https://informal.systems
 [u-paris]: https://u-paris.fr/language/en/
-[nouveau-nom]: https://u-paris.fr/universite-paris-cite-nouveau-nom-duniversite-de-paris-valide-par-decret
-[informal-job]: https://informalsystems.applytojob.com
-[mbt-informal]: https://mbt.informal.systems
 [cosmos-network]: https://cosmos.network
 [ibc]: https://ibc.cosmos.network/main/ibc/overview.html
-[ibc-rs]: https://github.com/cosmos/ibc-rs
+[cairo]: https://www.cairo-lang.org
+[starknet]: https://starknet.io
+[rust]: https://www.rust-lang.org
+[emerald]: https://informal.systems/emerald
