@@ -50,7 +50,7 @@
   
   Malachite (Tendermint), Commonware (Simplex), Ethereum execution.
   
-  Projects: Onemoney Network, Initiativ.
+  Projects: 1Money Network, Initiativ.
 ]
 
 #entry("ibc-starknet Developer", "July 2024 – Aug 2025")[
