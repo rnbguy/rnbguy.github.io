@@ -3,6 +3,7 @@
 # Edit whiteglass' home layout instead if you want to make some changes.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+title: "Homepage"
 ---
 
 I build production blockchain infrastructure at [Informal Systems][informal], a core contributor to the [Cosmos Network][cosmos-network] - _The Internet of Blockchains_.
