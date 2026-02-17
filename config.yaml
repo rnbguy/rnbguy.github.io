@@ -25,8 +25,3 @@ mermaid:
   paddingX: 5
   paddingY: 5
   boxBorderPadding: 1
-
-# navigation
-navBar:
-  - defense
-  - publications
