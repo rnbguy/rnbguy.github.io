@@ -41,7 +41,7 @@
 
 #section("Experience")
 
-#text(weight: "bold")[Informal Systems]
+#text(size: 12pt, weight: "bold")[#link("https://informal.systems")[Informal Systems]]
 #text(style: "italic", size: 9pt)[July 2021 – Present]
 #v(0.3em)
 
@@ -87,7 +87,7 @@
   [*Ph.D. in Computer Science*],
   align(right)[Nov 2017 – March 2021]
 )
-#text(style: "italic")[University of Paris (IRIF), France]
+#text(style: "italic")[#link("https://u-paris.fr/en/")[Université Paris Cité] (#link("https://www.irif.fr/en/index")[IRIF]), France]
 
 #link("https://theses.fr/2021UNIP7167")[Thesis: _Automated Formal Testing of Storage Systems and Applications_]
 #v(0.5em)
@@ -98,7 +98,7 @@
   [*Master of Science in Computer Science*],
   align(right)[Aug 2015 – April 2017]
 )
-#text(style: "italic")[Chennai Mathematical Institute, India]
+#text(style: "italic")[#link("https://www.cmi.ac.in")[Chennai Mathematical Institute], India]
 
 Software verification using #link("https://www.cprover.org/cbmc/")[CBMC]
 #v(0.5em)
@@ -109,7 +109,7 @@ Software verification using #link("https://www.cprover.org/cbmc/")[CBMC]
   [*Bachelor of Science in Mathematics and Computer Science*],
   align(right)[Aug 2012 – April 2015]
 )
-#text(style: "italic")[Chennai Mathematical Institute, India]
+#text(style: "italic")[#link("https://www.cmi.ac.in")[Chennai Mathematical Institute], India]
 
 #section("Interests")
 
