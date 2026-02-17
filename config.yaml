@@ -8,6 +8,7 @@ description: "Homepage for Ranadeep (or Rano or rnbguy)."
 lang: en
 author: "Ranadeep Biswas"
 github: "rnbguy"
+email: "mail@ranadeep.in"
 image: ""
 twitter:
   profile: "rnbguy_"
@@ -25,3 +26,7 @@ mermaid:
   paddingX: 5
   paddingY: 5
   boxBorderPadding: 1
+
+# navigation
+navBar:
+  - CV: /ranadeep_cv.pdf

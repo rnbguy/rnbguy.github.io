@@ -15,8 +15,6 @@ I hold a Ph.D. in Computer Science from [Université Paris Cité][u-paris] (form
 
 My B.Sc. and M.Sc. in Computer Science are from [Chennai Mathematical Institute][4].
 
-My [curriculum vitae][6].
-
 [1]: http://www.lix.polytechnique.fr/~cenea
 [2]: https://www.irif.fr/en/equipes/verif/index
 [3]: https://www.irif.fr
