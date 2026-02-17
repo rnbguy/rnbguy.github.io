@@ -87,7 +87,7 @@
   [*Ph.D. in Computer Science*],
   align(right)[Nov 2017 – March 2021]
 )
-#text(style: "italic")[#link("https://u-paris.fr/en/")[Université Paris Cité] (#link("https://www.irif.fr/en/index")[IRIF]), France]
+#text(style: "italic")[#link("https://u-paris.fr/language/en/")[Université Paris Cité] (#link("https://www.irif.fr/en/index")[IRIF]), France]
 
 #link("https://theses.fr/2021UNIP7167")[Thesis: _Automated Formal Testing of Storage Systems and Applications_]
 #v(0.5em)

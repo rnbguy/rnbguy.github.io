@@ -34,7 +34,7 @@ _Informal Systems is [hiring][informal-job]._
 [6]: /ranadeep_cv.pdf
 [7]: /defense
 [informal]: https://informal.systems
-[u-paris]: https://u-paris.fr
+[u-paris]: https://u-paris.fr/language/en/
 [nouveau-nom]: https://u-paris.fr/universite-paris-cite-nouveau-nom-duniversite-de-paris-valide-par-decret
 [informal-job]: https://informalsystems.applytojob.com
 [mbt-informal]: https://mbt.informal.systems
