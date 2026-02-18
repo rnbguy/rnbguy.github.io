@@ -1,1 +1,3 @@
 dist/
+deno.lock
+node_modules/

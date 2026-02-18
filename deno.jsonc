@@ -1,0 +1,14 @@
+{
+  "tasks": {
+    "prepare": "deno run -A npm:husky",
+    "cv:fix": "typstyle --inplace src/ranadeep_cv.typ && git add src/ranadeep_cv.typ",
+    "cv:check": "tinymist test src/ranadeep_cv.typ && typst compile src/ranadeep_cv.typ /tmp/ranadeep_cv.pdf",
+    "precommit": {
+      "dependencies": [
+        "cv:fix",
+        "cv:check"
+      ],
+      "command": "deno eval \"console.log('precommit successful')\""
+    }
+  }
+}
