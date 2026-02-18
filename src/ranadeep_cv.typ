@@ -113,4 +113,4 @@ Software verification using #link("https://www.cprover.org/cbmc/")[CBMC]
 
 #section("Skills")
 
-Distributed Systems · Blockchain Interoperability · Byzantine Consensus · Automated Testing · Formal Methods · Smart Contracts · Cosmos SDK · Ethereum · Starknet · Rust · Open-source Contribution · Linux · AI Agents
+Distributed Systems · Blockchain Interoperability · Byzantine Consensus · Automated Testing · Formal Methods · Smart Contracts · Cosmos SDK · Ethereum · Starknet · Rust · Open-source Contribution · Linux · Cloud Infrastructure · AI Agents
