@@ -8,7 +8,7 @@ title: "Homepage"
 
 I build production blockchain infrastructure at [Informal Systems][informal].
 
-Currently, I am part of the team that develops [Emerald][emerald], a modular framework for institutional blockchains using [EVM][evm] on top of consensus engines like [Malachite][malachite] and [Commonware Simplex][simplex]. I previously developed [Inter-Blockchain Communication][ibc] in [Rust][rust] and [Cairo][cairo] ([Starknet][starknet]). Even before that, I conducted security audits for [Cosmos SDK][cosmos-sdk], [Tendermint][tendermint], [IBC][ibc], and [CosmWasm][cosmwasm] smart contracts.
+Currently, I am part of the team that develops [Emerald][emerald], a modular framework for institutional blockchains using [EVM][evm] with [Solidity][solidity] contracts on top of consensus engines like [Malachite][malachite] and [Commonware Simplex][simplex]. I previously developed [Inter-Blockchain Communication][ibc] in [Rust][rust] and [Cairo][cairo] ([Starknet][starknet]). Even before that, I conducted security audits for [Cosmos SDK][cosmos-sdk], [Tendermint][tendermint], [IBC][ibc], and [CosmWasm][cosmwasm] smart contracts.
 
 I also specialize in protocol engineering, automated testing, and security audits for distributed systems. My academic background includes automated formal testing of distributed databases, with [4 publications](/publications) on this topic.
 
@@ -33,6 +33,7 @@ For my detailed experience and career history, see my cv: [ranadeep_cv.pdf][cv-p
 [rust]: https://www.rust-lang.org
 [emerald]: https://informal.systems/emerald
 [evm]: https://ethereum.org/en/developers/docs/evm/
+[solidity]: https://www.soliditylang.org
 [malachite]: https://github.com/circlefin/malachite
 [simplex]: https://docs.rs/commonware-consensus/latest/commonware_consensus/simplex/index.html
 [cosmos-sdk]: https://github.com/cosmos/cosmos-sdk

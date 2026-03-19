@@ -54,7 +54,9 @@
 #entry("Emerald Developer", "Sept 2025 – Present")[
   _Modular framework for institutional blockchains_
 
-  Malachite (Tendermint), Commonware (Simplex), Ethereum execution.
+  Tendermint (Malachite), Simplex (Commonware) consensus engines.
+
+  Ethereum execution layer and Solidity contracts.
 
   Projects: 1Money Network, Initiativ.
 ]
@@ -126,4 +128,10 @@ Software verification using #link("https://www.cprover.org/cbmc/")[CBMC]
 
 #section("Skills")
 
-Distributed Systems · Blockchain Interoperability · Byzantine Consensus · Automated Testing · Formal Methods · Smart Contracts · Cosmos SDK · Ethereum · Starknet · Rust · Open-source Contribution · Linux · Cloud Infrastructure · AI Agents
+#align(
+  center,
+)[Distributed Systems · Blockchain Interoperability · Byzantine Consensus · Automated Testing · Formal Methods · Smart Contracts · Open-source Contribution]
+
+#align(
+  center,
+)[Solidity · EVM · Starknet · Cairo · Cosmos SDK · IBC ·  Rust · TLA+ · Lean4 · Linux · Cloud Infrastructure · AI Agents]
