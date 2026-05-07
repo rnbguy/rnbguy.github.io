@@ -48,10 +48,10 @@
 #text(size: 12pt, weight: "bold")[#link(
   "https://informal.systems",
 )[Informal Systems]]
-#text(style: "italic", size: 9pt)[July 2021 – Present]
+#text(style: "italic", size: 9pt)[July 2021 – April 2026]
 #v(0.3em)
 
-#entry("Emerald Developer", "Sept 2025 – Present")[
+#entry("Emerald Developer", "Sept 2025 – April 2026")[
   _Modular framework for institutional blockchains_
 
   Tendermint (Malachite), Simplex (Commonware) consensus engines.
